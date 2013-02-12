@@ -1,6 +1,6 @@
 Automatic hand-written digit clustering using Bernoulli Mixture Models and Expectation-Maximization.
 
-See http://http://blog.zabarauskas.com/expectation-maximization-tutorial for full details.
+See http://blog.zabarauskas.com/expectation-maximization-tutorial for full details.
 
-Manfredas Zabarauskas, 2013 ©
+Manfredas Zabarauskas, 2013 ï¿½
 http://zabarauskas.com
